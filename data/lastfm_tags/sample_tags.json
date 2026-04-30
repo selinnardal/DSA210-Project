@@ -1,0 +1,777 @@
+{
+  "Tory Lanez ||| The Color Violet": [
+    {
+      "name": "color",
+      "count": 100
+    },
+    {
+      "name": "colors",
+      "count": 100
+    },
+    {
+      "name": "colours",
+      "count": 66
+    },
+    {
+      "name": "colour",
+      "count": 66
+    },
+    {
+      "name": "synthwave",
+      "count": 33
+    }
+  ],
+  "Brent Faiyaz ||| Poison": [
+    {
+      "name": "rnb",
+      "count": 100
+    },
+    {
+      "name": "smooth soul",
+      "count": 100
+    },
+    {
+      "name": "alternative rnb",
+      "count": 66
+    },
+    {
+      "name": "dark rnb",
+      "count": 66
+    },
+    {
+      "name": "brent faiyaz",
+      "count": 33
+    }
+  ],
+  "The Weeknd ||| Starboy": [
+    {
+      "name": "rnb",
+      "count": 100
+    },
+    {
+      "name": "pop",
+      "count": 74
+    },
+    {
+      "name": "2016",
+      "count": 22
+    },
+    {
+      "name": "electropop",
+      "count": 15
+    },
+    {
+      "name": "daft punk",
+      "count": 8
+    },
+    {
+      "name": "electronic",
+      "count": 8
+    },
+    {
+      "name": "synthpop",
+      "count": 5
+    },
+    {
+      "name": "the weeknd",
+      "count": 1
+    },
+    {
+      "name": "2010s",
+      "count": 1
+    },
+    {
+      "name": "alternative rnb",
+      "count": 1
+    }
+  ],
+  "Güneş ||| Suçlarımdan Biri": [],
+  "Yüzyüzeyken Konuşuruz ||| Boş Gemiler": [],
+  "Jung Kook ||| Seven (feat. Latto)": [
+    {
+      "name": "pop",
+      "count": 100
+    },
+    {
+      "name": "pop rap",
+      "count": 25
+    },
+    {
+      "name": "pop rnb",
+      "count": 16
+    },
+    {
+      "name": "hybe labels",
+      "count": 16
+    }
+  ],
+  "Doja Cat ||| Paint The Town Red": [
+    {
+      "name": "motomano",
+      "count": 100
+    },
+    {
+      "name": "pop",
+      "count": 44
+    },
+    {
+      "name": "rnb",
+      "count": 29
+    },
+    {
+      "name": "rap",
+      "count": 29
+    },
+    {
+      "name": "doja cat",
+      "count": 15
+    },
+    {
+      "name": "chipmunk soul",
+      "count": 15
+    },
+    {
+      "name": "2023",
+      "count": 15
+    },
+    {
+      "name": "2020s",
+      "count": 4
+    },
+    {
+      "name": "hip-hop",
+      "count": 1
+    },
+    {
+      "name": "uk number one",
+      "count": 1
+    }
+  ],
+  "Tate McRae ||| greedy": [
+    {
+      "name": "pop",
+      "count": 100
+    },
+    {
+      "name": "dance-pop",
+      "count": 51
+    },
+    {
+      "name": "contemporary rnb",
+      "count": 22
+    },
+    {
+      "name": "dance",
+      "count": 22
+    },
+    {
+      "name": "rnb",
+      "count": 6
+    },
+    {
+      "name": "female vocalist",
+      "count": 3
+    },
+    {
+      "name": "electropop",
+      "count": 3
+    },
+    {
+      "name": "vocal",
+      "count": 1
+    },
+    {
+      "name": "alt-pop",
+      "count": 1
+    },
+    {
+      "name": "electronic",
+      "count": 1
+    }
+  ],
+  "Jung Kook ||| 3D (feat. Jack Harlow)": [
+    {
+      "name": "jungkook",
+      "count": 100
+    },
+    {
+      "name": "pop",
+      "count": 25
+    },
+    {
+      "name": "rnb",
+      "count": 17
+    },
+    {
+      "name": "english",
+      "count": 17
+    },
+    {
+      "name": "fire",
+      "count": 8
+    },
+    {
+      "name": "timberlake",
+      "count": 8
+    },
+    {
+      "name": "golden",
+      "count": 8
+    },
+    {
+      "name": "rhodacore",
+      "count": 3
+    },
+    {
+      "name": "2023",
+      "count": 3
+    },
+    {
+      "name": "jack harlow",
+      "count": 3
+    }
+  ],
+  "Drake ||| IDGAF (feat. Yeat)": [
+    {
+      "name": "my top songs",
+      "count": 100
+    },
+    {
+      "name": "rage",
+      "count": 100
+    },
+    {
+      "name": "yeat",
+      "count": 66
+    },
+    {
+      "name": "nu jazz",
+      "count": 29
+    },
+    {
+      "name": "vocal jazz",
+      "count": 15
+    },
+    {
+      "name": "pop rap",
+      "count": 15
+    },
+    {
+      "name": "drake",
+      "count": 15
+    },
+    {
+      "name": "what",
+      "count": 1
+    },
+    {
+      "name": "psychedelic soul",
+      "count": 1
+    },
+    {
+      "name": "electronic",
+      "count": 1
+    }
+  ],
+  "Taylor Swift ||| Cruel Summer": [
+    {
+      "name": "electropop",
+      "count": 100
+    },
+    {
+      "name": "pop",
+      "count": 82
+    },
+    {
+      "name": "synthpop",
+      "count": 50
+    },
+    {
+      "name": "industrial pop",
+      "count": 39
+    },
+    {
+      "name": "pop perfection",
+      "count": 10
+    },
+    {
+      "name": "synthwave",
+      "count": 10
+    },
+    {
+      "name": "2019",
+      "count": 7
+    },
+    {
+      "name": "love at first listen",
+      "count": 1
+    },
+    {
+      "name": "the best of 2019",
+      "count": 1
+    },
+    {
+      "name": "soty",
+      "count": 1
+    }
+  ],
+  "KAROL G ||| QLONA": [
+    {
+      "name": "reggaeton",
+      "count": 100
+    }
+  ],
+  "Mitski ||| My Love Mine All Mine": [
+    {
+      "name": "indie",
+      "count": 100
+    },
+    {
+      "name": "soft rock",
+      "count": 44
+    },
+    {
+      "name": "americana",
+      "count": 17
+    },
+    {
+      "name": "love",
+      "count": 17
+    },
+    {
+      "name": "traditional pop",
+      "count": 8
+    },
+    {
+      "name": "countrypolitan",
+      "count": 4
+    },
+    {
+      "name": "singer-songwriter",
+      "count": 4
+    },
+    {
+      "name": "rnb",
+      "count": 1
+    },
+    {
+      "name": "lounge",
+      "count": 1
+    },
+    {
+      "name": "yung lean",
+      "count": 1
+    }
+  ],
+  "Kenya Grace ||| Strangers": [
+    {
+      "name": "drum and bass",
+      "count": 100
+    },
+    {
+      "name": "liquid dnb",
+      "count": 56
+    },
+    {
+      "name": "pop",
+      "count": 16
+    },
+    {
+      "name": "dance",
+      "count": 16
+    },
+    {
+      "name": "vocal",
+      "count": 8
+    },
+    {
+      "name": "alt-pop",
+      "count": 8
+    },
+    {
+      "name": "dnb",
+      "count": 8
+    },
+    {
+      "name": "liquid drum and bass",
+      "count": 3
+    },
+    {
+      "name": "house",
+      "count": 1
+    },
+    {
+      "name": "edm",
+      "count": 1
+    }
+  ],
+  "Myke Towers ||| LALA": [],
+  "Maluma ||| Según Quién": [],
+  "David Kushner ||| Daylight": [
+    {
+      "name": "my top songs",
+      "count": 100
+    },
+    {
+      "name": "pop",
+      "count": 100
+    },
+    {
+      "name": "singer-songwriter",
+      "count": 17
+    },
+    {
+      "name": "american",
+      "count": 17
+    },
+    {
+      "name": "chamber pop",
+      "count": 8
+    },
+    {
+      "name": "male vocalists",
+      "count": 8
+    },
+    {
+      "name": "daylight",
+      "count": 8
+    },
+    {
+      "name": "uk number two",
+      "count": 2
+    },
+    {
+      "name": "playlista rmf fm",
+      "count": 2
+    }
+  ],
+  "Calle 24 ||| Que Onda": [],
+  "cassö ||| Prada": [
+    {
+      "name": "c",
+      "count": 100
+    },
+    {
+      "name": "electronic",
+      "count": 100
+    },
+    {
+      "name": "hypertechno",
+      "count": 66
+    },
+    {
+      "name": "trance",
+      "count": 29
+    },
+    {
+      "name": "pop",
+      "count": 4
+    },
+    {
+      "name": "dance",
+      "count": 4
+    },
+    {
+      "name": "house",
+      "count": 4
+    },
+    {
+      "name": "progressive trance",
+      "count": 1
+    },
+    {
+      "name": "vocal trance",
+      "count": 1
+    },
+    {
+      "name": "hip-hop",
+      "count": 1
+    }
+  ],
+  "Harry Styles ||| As It Was": [
+    {
+      "name": "pop",
+      "count": 100
+    },
+    {
+      "name": "rock and roll over",
+      "count": 64
+    },
+    {
+      "name": "wsum 91.7 fm madison",
+      "count": 42
+    },
+    {
+      "name": "synthpop",
+      "count": 17
+    },
+    {
+      "name": "indie pop",
+      "count": 8
+    },
+    {
+      "name": "rock",
+      "count": 5
+    },
+    {
+      "name": "pop rock",
+      "count": 5
+    },
+    {
+      "name": "british",
+      "count": 2
+    },
+    {
+      "name": "harry's house",
+      "count": 1
+    },
+    {
+      "name": "new wave",
+      "count": 1
+    }
+  ],
+  "SZA ||| Kill Bill": [
+    {
+      "name": "pop",
+      "count": 100
+    },
+    {
+      "name": "trip hop",
+      "count": 100
+    },
+    {
+      "name": "bedroom pop",
+      "count": 52
+    },
+    {
+      "name": "psychedelic pop",
+      "count": 52
+    },
+    {
+      "name": "rnb",
+      "count": 20
+    },
+    {
+      "name": "neo-psychedelia",
+      "count": 20
+    },
+    {
+      "name": "neo-soul",
+      "count": 20
+    },
+    {
+      "name": "alt-pop",
+      "count": 3
+    },
+    {
+      "name": "soul",
+      "count": 2
+    },
+    {
+      "name": "indie surf",
+      "count": 2
+    }
+  ],
+  "Teoman ||| Serseri": [],
+  "Ufuk Beydemir ||| Ay Tenli Kadın": [],
+  "Şebnem Ferah ||| Hoşçakal": [],
+  "Sufle ||| Ne Söz Ne Saz": [],
+  "Walk off the Earth ||| My Stupid Heart": [],
+  "The Lumineers ||| just like heaven": [],
+  "Walk off the Earth ||| The Caviar Lime Song": [],
+  "Walk off the Earth ||| Rude": [],
+  "Walk off the Earth ||| Taekwondo - From \"Taekwondo\" The Soundtrack": [],
+  "Chiara Young ||| Under the Influence": [],
+  "Yüzyüzeyken Konuşuruz ||| Sen Varsın Diye": [],
+  "Reckol ||| Benimle Gel": [],
+  "Semicenk ||| Mesafe": [],
+  "ALIZADE ||| 24/7": [],
+  "Kubilay Karça ||| Celladına Aşık": [],
+  "ALIZADE ||| ŞU AN": [],
+  "ALIZADE ||| Kalbin bana kaldı": [],
+  "speedscape ||| greedy - Sped Up": [],
+  "Selena Gomez ||| Single Soon": [],
+  "Taylor Swift ||| I Can See You (Taylor’s Version) (From The Vault)": [
+    {
+      "name": "pop rock",
+      "count": 100
+    },
+    {
+      "name": "rock",
+      "count": 51
+    },
+    {
+      "name": "indie rock",
+      "count": 34
+    },
+    {
+      "name": "pop",
+      "count": 22
+    },
+    {
+      "name": "country rock",
+      "count": 11
+    },
+    {
+      "name": "alternative rock",
+      "count": 6
+    },
+    {
+      "name": "country",
+      "count": 6
+    },
+    {
+      "name": "jangle pop",
+      "count": 2
+    },
+    {
+      "name": "new wave",
+      "count": 2
+    },
+    {
+      "name": "from the vault",
+      "count": 1
+    }
+  ],
+  "Taylor Swift ||| august": [
+    {
+      "name": "dream pop",
+      "count": 100
+    },
+    {
+      "name": "folk",
+      "count": 41
+    },
+    {
+      "name": "folk pop",
+      "count": 14
+    },
+    {
+      "name": "indie pop",
+      "count": 14
+    },
+    {
+      "name": "indie folk",
+      "count": 4
+    },
+    {
+      "name": "indie",
+      "count": 4
+    },
+    {
+      "name": "guitar pop",
+      "count": 4
+    },
+    {
+      "name": "pop",
+      "count": 1
+    },
+    {
+      "name": "singer-songwriter",
+      "count": 1
+    },
+    {
+      "name": "chamber pop",
+      "count": 1
+    }
+  ],
+  "Taylor Swift ||| Lavender Haze": [
+    {
+      "name": "pop",
+      "count": 100
+    },
+    {
+      "name": "synthpop",
+      "count": 73
+    },
+    {
+      "name": "dream pop",
+      "count": 16
+    },
+    {
+      "name": "overrated",
+      "count": 16
+    },
+    {
+      "name": "rnb",
+      "count": 6
+    },
+    {
+      "name": "electropop",
+      "count": 6
+    },
+    {
+      "name": "alt-pop",
+      "count": 6
+    },
+    {
+      "name": "best of 2022",
+      "count": 1
+    },
+    {
+      "name": "electronic",
+      "count": 1
+    },
+    {
+      "name": "soty",
+      "count": 1
+    }
+  ],
+  "Taylor Swift ||| Maroon": [
+    {
+      "name": "synthpop",
+      "count": 100
+    },
+    {
+      "name": "pop",
+      "count": 83
+    },
+    {
+      "name": "singer-songwriter",
+      "count": 9
+    },
+    {
+      "name": "shoegaze",
+      "count": 9
+    },
+    {
+      "name": "aoty",
+      "count": 4
+    },
+    {
+      "name": "alt-pop",
+      "count": 4
+    },
+    {
+      "name": "chillwave",
+      "count": 4
+    },
+    {
+      "name": "soty",
+      "count": 1
+    },
+    {
+      "name": "midnights",
+      "count": 1
+    },
+    {
+      "name": "amazing",
+      "count": 1
+    }
+  ],
+  "Sezen Aksu ||| Rahatı Kaçan Ağaç": [],
+  "Jorja Smith ||| Little Things x Gypsy Woman - L BEATS MASHUP": [],
+  "Barkın ||| Bilmezdim": [],
+  "Coi Leray ||| Make My Day (with David Guetta)": [],
+  "The Irrepressibles ||| In This Shirt - Royksopp Remix": [],
+  "Clara La San ||| In This Darkness": [
+    {
+      "name": "rnb",
+      "count": 100
+    },
+    {
+      "name": "trance",
+      "count": 100
+    }
+  ]
+}
