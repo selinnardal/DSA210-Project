@@ -51,15 +51,17 @@ cd DSA210-Project
 pip install -r requirements.txt
 ```
 
-### 2. Provide a Last.fm API key (only needed for notebook 04)
+### 2. Provide API credentials (only needed for notebook 04)
 
-Create a `.env` file in the project root containing your free Last.fm API key:
+Create a `.env` file in the project root:
 
 ```
-LASTFM_API_KEY=your_key_here
+LASTFM_API_KEY=your_lastfm_key_here
+SPOTIPY_CLIENT_ID=your_spotify_client_id
+SPOTIPY_CLIENT_SECRET=your_spotify_client_secret
 ```
 
-You can obtain a key in seconds at https://www.last.fm/api/account/create.  The `.env` file is gitignored so the key never enters version control.
+You can obtain a free Last.fm API key at https://www.last.fm/api/account/create.  Spotify credentials are at https://developer.spotify.com/dashboard (note: Spotify deprecated the public `audio-features` endpoint in Nov 2024, so the Spotify keys are kept for historical compatibility only — actual enrichment uses Last.fm).  The `.env` file is gitignored so keys never enter version control.
 
 ### 3. Run the notebooks in order
 
@@ -100,6 +102,15 @@ So H1 is supported by the duration and overall-skip evidence, but not by the man
 
 ---
 
+## Final report
+
+The complete final report (Motivation, Data Source, Data Analysis, Findings, Limitations) is available in two formats:
+
+- **[`REPORT.md`](REPORT.md)** — full markdown version with embedded figures, viewable directly on GitHub
+- **[`REPORT.pdf`](REPORT.pdf)** — printable PDF version
+
+---
+
 ## AI usage disclosure
 
 In line with the course's AI policy, I used a large language model (Anthropic's Claude) as a coding and writing assistant during this project.  Areas where I used AI assistance include:
@@ -111,7 +122,7 @@ In line with the course's AI policy, I used a large language model (Anthropic's 
 
 All hypotheses, the choice of models and features, the final interpretations, and the substantive analysis decisions are mine; the assistant was used for technical scaffolding and as a sounding board.
 
-A more detailed log of specific prompts and outputs will accompany the final report submission on 18 May, as required by the course AI policy.
+A detailed log of specific prompts and outputs is provided in [`AI_USAGE.md`](AI_USAGE.md) as required by the course AI policy.
 
 ---
 
