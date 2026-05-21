@@ -3,3 +3,5 @@ data/*.json
 anaconda_projects/
 .ipynb_checkpoints/
 .env
+.DS_Store
+**/.DS_Store
