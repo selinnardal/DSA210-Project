@@ -1,7 +1,18 @@
+# Private data
 data/*.json
-.DS_Store
-anaconda_projects/
-.ipynb_checkpoints/
 .env
+.cache
+*.token
+
+# OS files
 .DS_Store
 **/.DS_Store
+
+# IDE / Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+anaconda_projects/
+
+# Python
+__pycache__/
+*.pyc
